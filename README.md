@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ex-Founder & Software Engineer
-
 ### My work
 
 [reachagreements.com](reachagreements.com) - Cursor for agreements
