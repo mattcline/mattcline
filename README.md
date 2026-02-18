@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ex-Founder & Software Engineer
 
-My work:
+### My work
 
-[Reach](https://github.com/mattcline/reach): Cursor for agreements
+[reachagreements.com](reachagreements.com) - Cursor for agreements
